@@ -1,3 +1,4 @@
+https://exiao.yuque.com/docs/share/e954465c-72c1-4184-b825-0f72cdc40723?# 《安装轻流平台》
 # qingflow-deploy
 轻流一键部署包-具体请联系商务获取，然后通过授权码进行兑换
 更新内容：
